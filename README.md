@@ -2,7 +2,7 @@
 
 ## Description
 
-A Text Editor that meets PWA criteria. This application can function on or offline. It showcase knowledge of idb, IndexedDB API, and Heroku.
+A Text Editor that meets PWA criteria, functioning on or offline. It showcases knowledge of idb, IndexedDB API, and Heroku.
 
 **Tools & Skills Used**<br>
 IndexedDB API, idb, and Heroku.
@@ -79,9 +79,15 @@ npm run start
 
 Please see below for examples of this application's usage.
 
+### Online Use
+
 ![1](assets/1.png)
-![2](assets/1.png)
-![3](assets/1.png)
+![2](assets/2.png)
+![3](assets/3.png)
+
+### Offline Use
+
+![4](assets/4.png)
 
 ## Credits
 
